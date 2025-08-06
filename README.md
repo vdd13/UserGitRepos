@@ -6,7 +6,7 @@ gdzie 'user' jest wyszukiwanym użytkownikiem github, np:
 
 http://localhost:8080/repos/vdd13
 
-otrzymamy w odpowiedzi listę z oczekiwanymi informacjami - repozytorium, branch, owner, sha. 
+spowoduje że otrzymamy w odpowiedzi listę z oczekiwanymi informacjami - repozytorium, branch, owner, sha. 
 
 
 Jeżeli wywołamy adres dla użytkownika który nie występuje w github, np: vdd131111 -
